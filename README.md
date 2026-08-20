@@ -3,13 +3,13 @@
 <p align="center">Vietnam ground operations, white-labelled.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shauryacodes7/" target="_blank">
+  <a href="https://www.linkedin.com/in/shauryaleo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1046C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/leocodes7/" target="_blank">
+  <a href="https://www.instagram.com/backpackerleo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-2A211C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/shauryacodes7" target="_blank">
+  <a href="https://x.com/shauryaleo" target="_blank">
     <img src="https://img.shields.io/badge/X-2A211C?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:shauryaleo7@gmail.com">
