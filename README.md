@@ -56,16 +56,3 @@ I build travel on the ground and software off it.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryacodes7&show_icons=true&hide_border=true&title_color=1046C2&icon_color=1046C2&text_color=2A211C&bg_color=F7F7F5" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryacodes7&layout=compact&hide_border=true&title_color=1046C2&text_color=2A211C&bg_color=F7F7F5" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=shauryacodes7&hide_border=true&ring=1046C2&currStreakLabel=1046C2&fire=1046C2&sideNums=2A211C&currStreakNum=2A211C&dates=2A211C&sideLabels=2A211C&background=F7F7F5" alt="GitHub streak" />
-</p>
